@@ -1,0 +1,15 @@
+2025-04-05 15:10:40,902 - INFO - Index Decrypted: b'qgOl\xf0\xef\xa8z\xc5)\x13`2\xe8\xbcX\x16N\r\xcb\xc1\xa4}\xa5\xd4\x9d\x08%\xb4\xd4\\\xe1\xf9' \u2192 6
+2025-04-05 15:10:52,023 - INFO - Key Successfully Verified! Secure Chat Started.
+2025-04-05 15:11:15,952 - INFO - Message Encrypted: Hello, Im want to let you know something ! \u2192 D7GaZAS+ek2+CJUqJTEyb4LvKuDInPFZBJOWNJbmO98cv2JSI9dYTrHtWXbBxfZov7YNbgDwd226K3HquUY04BlG27Ly6urmB2M=
+2025-04-05 15:11:15,960 - INFO - Message Decrypted: b'\x0f\xb1\x9ad\x04\xbezM\xbe\x08\x95*%12o\x82\xef*\xe0\xc8\x9c\xf1Y\x04\x93\x964\x96\xe6;\xdf\x1c\xbfbR#\xd7XN\xb1\xedYv\xc1\xc5\xf6h\xbf\xb6\rn\x00\xf0wm\xba+q\xea\xb9F4\xe0\x19F\xdb\xb2\xf2\xea\xea\xe6\x07c' \u2192 Hello, Im want to let you know something !
+2025-04-05 15:11:15,963 - INFO - Sender sent encrypted message: D7GaZAS+ek2+CJUqJTEyb4LvKuDInPFZBJOWNJbmO98cv2JSI9dYTrHtWXbBxfZov7YNbgDwd226K3HquUY04BlG27Ly6urmB2M=
+2025-04-05 15:11:15,963 - INFO - Sender received decrypted message: Hello, Im want to let you know something !
+2025-04-05 15:11:22,348 - INFO - Message Encrypted: Yes ? \u2192 ulJbUuYDIyQyE2tiGxeIfGcDHGxYR8K/eSpOuB+1WWyVWcsgHg==
+2025-04-05 15:11:22,350 - INFO - Message Decrypted: b'\xbaR[R\xe6\x03#$2\x13kb\x1b\x17\x88|g\x03\x1clXG\xc2\xbfy*N\xb8\x1f\xb5Yl\x95Y\xcb \x1e' \u2192 Yes ?
+2025-04-05 15:11:22,351 - INFO - Receiver sent encrypted message: ulJbUuYDIyQyE2tiGxeIfGcDHGxYR8K/eSpOuB+1WWyVWcsgHg==
+2025-04-05 15:11:22,351 - INFO - Receiver received decrypted message: Yes ?
+2025-04-05 15:11:52,943 - INFO - Message Encrypted: The otp is 12345, ack the next reply by destroying the key. \u2192 InySo+Gnk8oel8/rFmCSnV7CTCYU57tudD5+buAIxQrXn24sQRMKIWjyl69RVnk9UieGkSLJUzFw1GXGrRv2c8OBqN3rBIxsYRJdMVd55hWbNaZ/nvOvJpp3Dw==
+2025-04-05 15:11:52,946 - INFO - Message Decrypted: b'"|\x92\xa3\xe1\xa7\x93\xca\x1e\x97\xcf\xeb\x16`\x92\x9d^\xc2L&\x14\xe7\xbbnt>~n\xe0\x08\xc5\n\xd7\x9fn,A\x13\n!h\xf2\x97\xafQVy=R\'\x86\x91"\xc9S1p\xd4e\xc6\xad\x1b\xf6s\xc3\x81\xa8\xdd\xeb\x04\x8cla\x12]1Wy\xe6\x15\x9b5\xa6\x7f\x9e\xf3\xaf&\x9aw\x0f' \u2192 The otp is 12345, ack the next reply by destroying the key.
+2025-04-05 15:11:52,949 - INFO - Sender sent encrypted message: InySo+Gnk8oel8/rFmCSnV7CTCYU57tudD5+buAIxQrXn24sQRMKIWjyl69RVnk9UieGkSLJUzFw1GXGrRv2c8OBqN3rBIxsYRJdMVd55hWbNaZ/nvOvJpp3Dw==
+2025-04-05 15:11:52,949 - INFO - Sender received decrypted message: The otp is 12345, ack the next reply by destroying the key.
+2025-04-05 15:12:01,977 - INFO - Secure Key Destroyed. Chat Session Ended.
